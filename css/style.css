@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: url("https://images.thevoicemag.ru/upload/img_cache/13f/13f4bcaa7ec1800a705fa595f6d5a54c_cropped_666x999.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+}
+
+.fuck {
+  background: red;
+  color: green;
+  background: url("../img/git_howto.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+}
+
+.block {
+  background: yellow;
+  font-size: 14px;
+  height: 200px;
+  width: 200px;
+  border-radius: 15px;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
